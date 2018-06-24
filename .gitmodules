@@ -1,0 +1,9 @@
+[submodule "OpenSubtitlesDownload"]
+	path = OpenSubtitlesDownload
+	url = https://github.com/emericg/OpenSubtitlesDownload
+[submodule "subtitle-downloader"]
+	path = subtitle-downloader
+	url = https://github.com/manojmj92/subtitle-downloader
+[submodule "srt-shift"]
+	path = srt-shift
+	url = https://github.com/adeel/srt-shift
